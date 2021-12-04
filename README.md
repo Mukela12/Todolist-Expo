@@ -1,6 +1,6 @@
 # TodoListApp
 
-A react-native app. 
+My first react-native app. 
 
 ## Installation
 
